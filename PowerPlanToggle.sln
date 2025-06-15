@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPlanToggle", "PowerPlanToggle.csproj", "{DB413A8A-9194-42D1-BE00-04AB891E793C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PowerPlanToggleInstaller", "..\PowerPlanToggleInstaller\PowerPlanToggleInstaller.vdproj", "{F5382970-7281-4836-8A97-9E3F3B5DF7A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB413A8A-9194-42D1-BE00-04AB891E793C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB413A8A-9194-42D1-BE00-04AB891E793C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB413A8A-9194-42D1-BE00-04AB891E793C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB413A8A-9194-42D1-BE00-04AB891E793C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5382970-7281-4836-8A97-9E3F3B5DF7A7}.Debug|Any CPU.ActiveCfg = Debug
+		{F5382970-7281-4836-8A97-9E3F3B5DF7A7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CD65EA7-8FEA-41E8-A982-C691D3355D0A}
+	EndGlobalSection
+EndGlobal
