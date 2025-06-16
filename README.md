@@ -11,7 +11,7 @@ Switch effortlessly between **Power Saving** and **Ultimate Performance** modes 
 ## ✨ Features
 
 * 🔌 One-click power plan switching
-* 🎨 Tray icon color indicator (Green = College, Red = Ultimate Performance)
+* 🎨 Tray icon color indicator (Green = Power Saving, Red = Ultimate Performance)
 * 🗁️ Left-click to toggle, Right-click for menu
 * 🚀 Ultra-lightweight (minimal CPU & GPU usage)
 * 🛠️ Auto-start option
