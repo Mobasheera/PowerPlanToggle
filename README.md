@@ -1,9 +1,10 @@
-# PowerPlanToggle
+
+# <img src="https://i.postimg.cc/vcRznJk9/Power-Options.png" width="48">  PowerPlanToggle
 
 A minimalist Windows tray app to toggle between two power plans with a single click.
 Switch effortlessly between **College (power saving)** and **Ultimate Performance** modes with instant visual feedback.
 
-![PowerPlanToggle Demo](https://via.placeholder.com/600x200.png?text=PowerPlanToggle+Demo)
+<!--  ![PowerPlanToggle Demo](https://via.placeholder.com/600x200.png?text=PowerPlanToggle+Demo) -->
 
 ---
 
